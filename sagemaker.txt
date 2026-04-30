@@ -1,0 +1,6 @@
+/endpoints
+/endpoints/invocations
+/runtime/invocations
+/invocations
+/predict
+/infer
