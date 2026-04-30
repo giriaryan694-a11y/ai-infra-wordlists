@@ -1,0 +1,6 @@
+/minio
+/minio/health
+/minio/health/live
+/minio/health/ready
+/minio/login
+/minio/webrpc
