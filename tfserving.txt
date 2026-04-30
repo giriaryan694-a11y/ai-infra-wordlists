@@ -1,0 +1,5 @@
+/v1/models
+/v1/models/predict
+/v1/models/classify
+/v1/models/regress
+/v1/models/metadata
