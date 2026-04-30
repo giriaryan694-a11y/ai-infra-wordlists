@@ -1,0 +1,10 @@
+/api/health/live
+/api/health/ready
+/api/status
+/api/infer
+/api/models
+/api/modelcontrol
+/v2/health/live
+/v2/health/ready
+/v2/models
+/v2/models/stats
