@@ -1,0 +1,9 @@
+/api
+/api/generate
+/api/chat
+/api/tags
+/api/show
+/api/pull
+/api/push
+/api/delete
+/api/embeddings
