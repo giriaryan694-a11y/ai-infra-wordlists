@@ -1,0 +1,8 @@
+/api/serve
+/api/serve/applications
+/api/serve/deployments
+/api/jobs
+/api/jobs/
+/api/jobs/list
+/api/cluster
+/api/state
