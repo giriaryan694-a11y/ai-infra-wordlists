@@ -1,0 +1,6 @@
+/api/v1
+/api/v1/collections
+/api/v1/collections/
+/api/v1/heartbeat
+/api/v1/add
+/api/v1/query
