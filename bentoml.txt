@@ -1,0 +1,7 @@
+/livez
+/readyz
+/healthz
+/metrics
+/monitoring
+/docs.json
+/openapi.json
