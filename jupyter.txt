@@ -1,0 +1,11 @@
+/api
+/api/contents
+/api/sessions
+/api/kernels
+/api/kernelspecs
+/api/terminals
+/api/config
+/lab
+/tree
+/notebooks
+/edit
