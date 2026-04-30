@@ -1,0 +1,9 @@
+/infer
+/metadata
+/ready
+/live
+/models
+/v1/models
+/v2/models
+/v2/health/live
+/v2/health/ready
