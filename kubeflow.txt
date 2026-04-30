@@ -1,0 +1,8 @@
+/pipeline
+/pipeline/apis
+/pipeline/apis/v1beta1
+/pipeline/apis/v1beta1/runs
+/pipeline/apis/v1beta1/experiments
+/pipeline/apis/v1beta1/pipelines
+/pipeline/apis/v1beta1/jobs
+/pipeline/apis/v2beta1
