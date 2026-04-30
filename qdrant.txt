@@ -1,0 +1,6 @@
+/collections
+/collections/
+/collections/test
+/metrics
+/health
+/ready
