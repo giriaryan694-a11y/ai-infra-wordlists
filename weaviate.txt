@@ -1,0 +1,7 @@
+/v1
+/v1/schema
+/v1/meta
+/v1/objects
+/v1/modules
+/v1/batch
+/v1/graphql
