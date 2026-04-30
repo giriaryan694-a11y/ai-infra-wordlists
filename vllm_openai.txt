@@ -1,0 +1,6 @@
+/v1/models
+/v1/completions
+/v1/chat/completions
+/v1/embeddings
+/v1/audio
+/v1/responses
