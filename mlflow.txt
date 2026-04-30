@@ -1,0 +1,12 @@
+/api/2.0/mlflow
+/api/2.0/mlflow/experiments
+/api/2.0/mlflow/experiments/search
+/api/2.0/mlflow/runs
+/api/2.0/mlflow/runs/get
+/api/2.0/mlflow/runs/search
+/api/2.0/mlflow/model-versions
+/api/2.0/mlflow/model-versions/search
+/api/2.0/mlflow/registered-models
+/api/2.0/mlflow-artifacts
+/api/2.0/mlflow-artifacts/artifacts
+/api/2.0/mlflow-artifacts/mpu
