@@ -10,3 +10,5 @@
 /api/2.0/mlflow-artifacts
 /api/2.0/mlflow-artifacts/artifacts
 /api/2.0/mlflow-artifacts/mpu
+/api/2.0/mlflow/experiments/list
+/api/2.0/mlflow/registered-models/list
